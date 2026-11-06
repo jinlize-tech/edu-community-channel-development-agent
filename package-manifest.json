@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-AG-003",
+  "repository_name": "edu-community-channel-development-agent",
+  "product_type": "Agent",
+  "version": "1.0.0",
+  "package_path": "dist/edu-community-channel-development-agent-v1.0.0.zip",
+  "sha256": "9C43B78A9664670799910383E2524671C7B2BA49589CC0017AA9C95288D6C8B1",
+  "bytes": 11950,
+  "entries": [
+    "edu-community-channel-development-agent/.codebuddy-plugin/plugin.json",
+    "edu-community-channel-development-agent/agents/edu-community-channel-development-agent.md",
+    "edu-community-channel-development-agent/avatars/expert.png",
+    "edu-community-channel-development-agent/README.md"
+  ],
+  "built_at": "2026-11-06T21:39:25.3693116+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}

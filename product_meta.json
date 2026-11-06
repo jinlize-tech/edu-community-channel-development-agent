@@ -1,0 +1,24 @@
+{
+  "number": 15,
+  "product_id": "JLZ-EDU-AG-003",
+  "chinese_name": "社区招生渠道拓展",
+  "english_name": "Community Channel Development Agent",
+  "repository_name": "edu-community-channel-development-agent",
+  "product_type": "Agent",
+  "category": "01 招生营销中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-community-channel-development-agent-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "机构校区范围、目标社区/商圈/企业、现有关系、课程匹配和合作限制",
+  "main_output": "渠道地图、对象优先级、接触路径、合作提案框架、周计划和跟进指标",
+  "package_entries": [
+    "edu-community-channel-development-agent/.codebuddy-plugin/plugin.json",
+    "edu-community-channel-development-agent/agents/edu-community-channel-development-agent.md",
+    "edu-community-channel-development-agent/avatars/expert.png",
+    "edu-community-channel-development-agent/README.md"
+  ]
+}
