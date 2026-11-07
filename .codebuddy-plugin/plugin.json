@@ -1,6 +1,6 @@
 {
   "name": "edu-community-channel-development-agent",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Multi-step education operations assistant for Community Channel Development Agent.",
   "author": {
     "name": "广州金励泽科技服务有限公司",
@@ -17,7 +17,7 @@
   },
   "profession": {
     "en": "Community Channel Development Agent",
-    "zh": ""
+    "zh": "社区招生渠道拓展专家"
   },
   "displayDescription": {
     "en": "A multi-step education agent for Community Channel Development Agent, producing reviewable plans with human checkpoints.",

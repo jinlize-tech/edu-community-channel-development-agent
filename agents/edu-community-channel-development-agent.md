@@ -6,7 +6,7 @@ displayName:
   zh: '社区招生渠道拓展'
 profession:
   en: 'Community Channel Development Agent'
-  zh: ''
+  zh: '社区招生渠道拓展专家'
 maxTurns: 50
 ---
 
